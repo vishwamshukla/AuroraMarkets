@@ -32,6 +32,7 @@ AuroraMarkets is a backend system designed to fetch, store, and serve real-time 
 ```bash
 git clone https://github.com/your-username/auroramarkets.git
 cd auroramarkets
+---
 
 ### Install Python Dependencies
 
