@@ -1,6 +1,8 @@
 # AuroraMarkets
 
-AuroraMarkets is a backend system designed to fetch, store, and serve real-time and historical stock market data using **Polygon.io APIs** and **AWS DynamoDB**. It provides RESTful APIs to access business-critical insights, making it easy to integrate with front-end dashboards or analytics systems.
+AuroraMarkets is a backend system designed to fetch, store, and serve real-time and historical stock market data using **Polygon.io APIs** and **AWS DynamoDB**. It provides RESTful APIs to access business-critical insights, making it easy to integrate with front-end dashboards or analytics systems. 
+
+For more information, react out with requirments at shuklavishwam111@gmail.com
 
 ## Features
 
